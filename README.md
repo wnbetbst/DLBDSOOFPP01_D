@@ -41,7 +41,7 @@ Empfohlen:
 
 ### **2. Projekt herunterladen**
 
-Projektdateien in einen Ordner speichern, z. B.: /Dashboard/
+Projektdateien in einen Ordner speichern und Struktur beibehalten, z. B.: /Dashboard/
 
 
 ---
