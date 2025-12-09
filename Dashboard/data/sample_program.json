@@ -1,0 +1,451 @@
+{
+  "name": "B.Sc. Cyber Security",
+  "total_ects": 180,
+  "goals": [
+    {
+      "type": "duration",
+      "description": "Studium in 6 Semestern abschließen",
+      "planned_semesters": 6
+    },
+    {
+      "type": "gpa",
+      "description": "Notenschnitt von höchstens 3,0 erreichen",
+      "max_gpa": 3.0
+    }
+  ],
+  "semesters": [
+    {
+      "semester": 1,
+      "modules": [
+        {
+          "id": 1,
+          "code": "DLBIBRVS01",
+          "title": "Betriebssysteme, Rechnernetze und verteilte Systeme",
+          "ects": 5,
+          "status": "completed",
+          "assessment": {
+            "name": "Klausur",
+            "max_points": 100,
+            "passed": true,
+            "grade": 2.3
+          }
+        },
+        {
+          "id": 2,
+          "code": "DLBISIC01",
+          "title": "Einführung in Datenschutz und IT-Sicherheit",
+          "ects": 5,
+          "status": "completed",
+          "assessment": {
+            "name": "Klausur",
+            "max_points": 100,
+            "passed": true,
+            "grade": 2.0
+          }
+        },
+        {
+          "id": 3,
+          "code": "DLBDSIPWP01_D",
+          "title": "Einführung in die Programmierung mit Python",
+          "ects": 5,
+          "status": "completed",
+          "assessment": {
+            "name": "Klausur",
+            "max_points": 100,
+            "passed": true,
+            "grade": 2.3
+          }
+        },
+        {
+          "id": 4,
+          "code": "DLBWIRITT01",
+          "title": "Einführung in das wissenschaftliche Arbeiten für IT und Technik",
+          "ects": 5,
+          "status": "completed",
+          "assessment": {
+            "name": "Advanced Workbook",
+            "max_points": 100,
+            "passed": true,
+            "grade": 2.3
+          }
+        },
+        {
+          "id": 5,
+          "code": "DLBDSOOFPP01_D",
+          "title": "Projekt: Objektorientierte und funktionale Programmierung mit Python",
+          "ects": 5,
+          "status": "planned",
+          "assessment": {
+            "name": "Portfolio",
+            "max_points": 100,
+            "passed": false,
+            "grade": null
+          }
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "modules": [
+        {
+          "id": 6,
+          "code": "DLBCSEINF01_D",
+          "title": "Einführung in die Netzwerkforensik",
+          "ects": 5,
+          "status": "completed",
+          "assessment": {
+            "name": "Klausur",
+            "max_points": 100,
+            "passed": true,
+            "grade": 3.3
+          }
+        },
+        {
+          "id": 7,
+          "code": "IMT101",
+          "title": "Mathematik Grundlagen I",
+          "ects": 5,
+          "status": "planned",
+          "assessment": {
+            "name": "Klausur",
+            "max_points": 100,
+            "passed": false,
+            "grade": null
+          }
+        },
+        {
+          "id": 8,
+          "code": "DLBDSSPDS01_D",
+          "title": "Statistik - Wahrscheinlichkeit und deskriptive Statistik",
+          "ects": 5,
+          "status": "planned",
+          "assessment": {
+            "name": "Klausur oder Advanced Workbook",
+            "max_points": 100,
+            "passed": false,
+            "grade": null
+          }
+        },
+        {
+          "id": 9,
+          "code": "IREN01",
+          "title": "Requirements Engineering",
+          "ects": 5,
+          "status": "completed",
+          "assessment": {
+            "name": "Klausur",
+            "max_points": 100,
+            "passed": true,
+            "grade": 3.7
+          }
+        },
+        {
+          "id": 10,
+          "code": "DLBDBAPM01",
+          "title": "Projekt: Agiles Projektmanagement",
+          "ects": 5,
+          "status": "recognized",
+          "assessment": {
+            "name": "Projektbericht",
+            "max_points": 100,
+            "passed": true,
+            "grade": null
+          }
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "modules": [
+        {
+          "id": 11,
+          "code": "DLBCSESPB01_D",
+          "title": "Grundzüge des System-Pentestings",
+          "ects": 5,
+          "status": "completed",
+          "assessment": {
+            "name": "Klausur",
+            "max_points": 100,
+            "passed": true,
+            "grade": 3.0
+          }
+        },
+        {
+          "id": 12,
+          "code": "DLBITIML01",
+          "title": "Theoretische Informatik und Mathematische Logik",
+          "ects": 5,
+          "status": "planned",
+          "assessment": {
+            "name": "Klausur",
+            "max_points": 100,
+            "passed": false,
+            "grade": null
+          }
+        },
+        {
+          "id": 13,
+          "code": "DLBCSEESE01_D",
+          "title": "Social Engineering und Insider Threats",
+          "ects": 5,
+          "status": "completed",
+          "assessment": {
+            "name": "Fallstudie",
+            "max_points": 100,
+            "passed": true,
+            "grade": 1.7
+          }
+        },
+        {
+          "id": 14,
+          "code": "DLBCSEEISC01_D",
+          "title": "Technische und betriebliche IT-Sicherheitskonzeptionen",
+          "ects": 5,
+          "status": "recognized",
+          "assessment": {
+            "name": "Klausur",
+            "max_points": 100,
+            "passed": true,
+            "grade": null
+          }
+        },
+        {
+          "id": 15,
+          "code": "DLBCSEESE02_D",
+          "title": "Projekt: Social Engineering",
+          "ects": 5,
+          "status": "completed",
+          "assessment": {
+            "name": "Projektpraesentation",
+            "max_points": 100,
+            "passed": true,
+            "grade": 1.3
+          }
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "modules": [
+        {
+          "id": 16,
+          "code": "DLBCSEDCSW01_D",
+          "title": "DevSecOps und gängige Software-Schwachstellen",
+          "ects": 5,
+          "status": "completed",
+          "assessment": {
+            "name": "Hausarbeit",
+            "max_points": 100,
+            "passed": true,
+            "grade": 2.7
+          }
+        },
+        {
+          "id": 17,
+          "code": "DLBISIC02-01",
+          "title": "Kryptografische Verfahren",
+          "ects": 5,
+          "status": "completed",
+          "assessment": {
+            "name": "Fallstudie",
+            "max_points": 100,
+            "passed": true,
+            "grade": 1.7
+          }
+        },
+        {
+          "id": 18,
+          "code": "DLBCSEHSF01_D",
+          "title": "Host- und Softwareforensik",
+          "ects": 5,
+          "status": "completed",
+          "assessment": {
+            "name": "Klausur",
+            "max_points": 100,
+            "passed": true,
+            "grade": 3.0
+          }
+        },
+        {
+          "id": 19,
+          "code": "DLBCSSCTCS01_D",
+          "title": "Seminar: Aktuelle Themen in Computer Science",
+          "ects": 5,
+          "status": "completed",
+          "assessment": {
+            "name": "Seminararbeit",
+            "max_points": 100,
+            "passed": true,
+            "grade": 2.3
+          }
+        },
+        {
+          "id": 20,
+          "code": "DLBCSEEISC02_D",
+          "title": "Projekt: Einsatz und Konfiguration von SIEM-Systemen",
+          "ects": 5,
+          "status": "planned",
+          "assessment": {
+            "name": "Projektbericht",
+            "max_points": 100,
+            "passed": false,
+            "grade": null
+          }
+        }
+      ]
+    },
+    {
+      "semester": 5,
+      "modules": [
+        {
+          "id": 21,
+          "code": "DLBCSEEFT01_D",
+          "title": "Threat Modeling",
+          "ects": 5,
+          "status": "completed",
+          "assessment": {
+            "name": "Klausur",
+            "max_points": 100,
+            "passed": true,
+            "grade": 2.7
+          }
+        },
+        {
+          "id": 22,
+          "code": "DLBCSEISS01_D",
+          "title": "Standards der Informationssicherheit",
+          "ects": 5,
+          "status": "completed",
+          "assessment": {
+            "name": "Fallstudie",
+            "max_points": 100,
+            "passed": true,
+            "grade": 1.3
+          }
+        },
+        {
+          "id": 23,
+          "code": "DLBCSEEPT1_E",
+          "title": "Principles of Ethical Hacking",
+          "ects": 5,
+          "status": "completed",
+          "assessment": {
+            "name": "Klausur",
+            "max_points": 100,
+            "passed": true,
+            "grade": 3.3
+          }
+        },
+        {
+          "id": 24,
+          "code": "DLBINGEIT",
+          "title": "Einführung in das Internet of Things",
+          "ects": 5,
+          "status": "completed",
+          "assessment": {
+            "name": "Klausur",
+            "max_points": 100,
+            "passed": true,
+            "grade": 2.3
+          }
+        },
+        {
+          "id": 25,
+          "code": "DLBCSEEFT02_D",
+          "title": "Projekt: Threat Modeling",
+          "ects": 5,
+          "status": "recognized",
+          "assessment": {
+            "name": "Projektbericht",
+            "max_points": 100,
+            "passed": true,
+            "grade": null
+          }
+        }
+      ]
+    },
+    {
+      "semester": 6,
+      "modules": [
+        {
+          "id": 26,
+          "code": "DLBCSEEPT2_E",
+          "title": "Project: Pentesting",
+          "ects": 5,
+          "status": "recognized",
+          "assessment": {
+            "name": "Anerkannt",
+            "max_points": 100,
+            "passed": true,
+            "grade": null
+          }
+        },
+        {
+          "id": 27,
+          "code": "DLBIADPS-01",
+          "title": "Algorithmen, Datenstrukturen und Programmiersprachen",
+          "ects": 5,
+          "status": "completed",
+          "assessment": {
+            "name": "Prüfung",
+            "max_points": 100,
+            "passed": true,
+            "grade": 2.3
+          }
+        },
+        {
+          "id": 28,
+          "code": "DLBMINPAPCC01",
+          "title": "Projekt: Allgemeine Programmierung mit C/C++",
+          "ects": 5,
+          "status": "planned",
+          "assessment": {
+            "name": "Portfolio",
+            "max_points": 100,
+            "passed": false,
+            "grade": null
+          }
+        },
+        {
+          "id": 29,
+          "code": "DLBCSEICS_D",
+          "title": "Praktikum: Informatik",
+          "ects": 30,
+          "status": "recognized",
+          "assessment": {
+            "name": "Praktikum",
+            "max_points": 100,
+            "passed": true,
+            "grade": null
+          }
+        },
+        {
+          "id": 30,
+          "code": "BBAK01",
+          "title": "Bachelorarbeit",
+          "ects": 9,
+          "status": "planned",
+          "assessment": {
+            "name": "Bachelorarbeit",
+            "max_points": 100,
+            "passed": false,
+            "grade": null
+          }
+        },
+        {
+          "id": 31,
+          "code": "BBAK02",
+          "title": "Kolloquium",
+          "ects": 1,
+          "status": "planned",
+          "assessment": {
+            "name": "Muendliche Pruefung",
+            "max_points": 100,
+            "passed": false,
+            "grade": null
+          }
+        }
+      ]
+    }
+  ]
+}
