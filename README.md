@@ -1,2 +1,2 @@
 # DLBDSOOFPP01_D
-Objektorientierte und funkti- onale Programmierung mit Python
+Objektorientierte und funktionale Programmierung mit Python
